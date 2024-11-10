@@ -1,5 +1,4 @@
-# SC4002 NLP G39
-SC4002 - Natural Language Processing Group Project
+# SC4002 Natural Language Processing G39 Project
 
 # Members
 1. Isaiah Loh Kai En
